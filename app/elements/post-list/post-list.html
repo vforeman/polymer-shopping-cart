@@ -22,9 +22,10 @@
           favorite="{{post.favorite}}"
           on-favorite-tap="{{handleFavorite}}"
           hidden?="{{show == 'favorites' && !post.favorite}}">
-          <img src="{{post.avatar}}" width="70" height="70">
-          <h2>{{post.username}}</h2>
-          <p>{{post.text}}</p>
+          <img src="{{post.product_image}}" width="70" height="70">
+          <h2>{{post.name}}</h2>
+          <p>{{post.description}}</p>
+          <!-- <price>{{post.price}}</price> -->
         </post-card>
       </template>
     </div>
