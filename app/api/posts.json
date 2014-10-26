@@ -3,7 +3,7 @@
     "uid": 1,
     "description" : "The Madagascar hissing cockroach (Gromphadorhina portentosa), also known as the hissing cockroach or simply hisser, is one of the largest species of cockroach, reaching 2 to 3 inches (5.1–7.6 cm) at maturity.",
     "name" : "Madagascar Hissing Cockroach",
-    "product_image" : "../images/avatar-01.svg",
+    "product_image" : "/app/images/HissingRoach.jpg",
     "favorite": false,
     "price": 3.00
   },
@@ -11,15 +11,15 @@
     "uid": 2,
     "description" : "Tarantulas comprise a group of often hairy and very large arachnids belonging to the Theraphosidae family of spiders, of which approximately 900 species have been identified.",
     "name" : "Tarantula",
-    "product_image" : "../images/avatar-02.svg",
-    "favorite": false,
+    "product_image" : "/app/images/Tarantula.jpg",
+    "favorite": false ,
     "price":15.00
   },
     {
     "uid": 3,
     "description" : "The emperor scorpion, Pandinus imperator, is a species of scorpion native to rainforests and savannas in West Africa.",
     "name" : "Emperor Scorpions",
-    "product_image" : "../images/avatar-03.svg",
+    "product_image" : "/app/images/Scorpion.jpg",
     "favorite": false,
     "price":20.00
   },
@@ -27,7 +27,7 @@
     "uid": 4,
     "description" : "Pogona is a genus of reptiles containing eight species, which are often known by the common name bearded dragons.",
     "name" : "Bearded Dragon",
-    "product_image" : "../images/avatar-07.svg",
+    "product_image" : "/app/images/BDragon.jpg",
     "favorite": false,
     "price":100.00
   },
@@ -35,7 +35,7 @@
     "uid": 5,
     "description" : "The sugar glider (Petaurus breviceps) is a small, omnivorous, arboreal and nocturnal gliding possum belonging to the marsupial infraclass. The common name refers to its preference for sugary nectarous foods and ability to glide through the air, much like a flying squirrel.",
     "name" : "Sugar Glider",
-    "product_image" : "../images/avatar-08.svg",
+    "product_image" : "/app/images/SGlider.jpg",
     "favorite": false,
     "price":200.00
   },
@@ -43,7 +43,7 @@
     "uid": 6,
     "description" : "A hedgehog is any of the spiny mammals of the subfamily Erinaceinae, which is in order Erinaceomorpha. There are seventeen species of hedgehog in five genera, found through parts of Europe, Asia, Africa and New Zealand (by introduction).",
     "name" : "Hedgehog",
-    "product_image" : "../images/avatar-04.svg",
+    "product_image" : "/app/images/HedgeHog.jpg",
     "favorite": false,
     "price":300.00
   },
@@ -51,7 +51,7 @@
     "uid": 7,
     "description" : "Skunks (also called polecats in America) are mammals known for their ability to spray a liquid with a strong odor.",
     "name" : "Skunk",
-    "product_image" : "../images/avatar-06.svg",
+    "product_image" : "/app/images/Skunky.jpg",
     "favorite": false,
     "price":500.00
   },
@@ -59,7 +59,7 @@
     "uid": 8,
     "description" : "The capybara (Hydrochoerus hydrochaeris) is the largest rodent in the world. Its closest relatives are guinea pigs and rock cavies, and it is more distantly related to the agouti, chinchillas, and the coypu. Native to South America, the capybara inhabits savannas and dense forests and lives near bodies of water.",
     "name" : "Capybara",
-    "product_image" : "../images/avatar-05.svg",
+    "product_image" : "/app/images/Capybara-02.jpg",
     "favorite": false,
     "price":600.00
   },
@@ -67,7 +67,7 @@
     "uid": 9,
     "description" : "The fennec fox or fennec (Vulpes zerda) is a small nocturnal fox found in the Sahara of North Africa. Its most distinctive feature is its unusually large ears, which also serve to dissipate heat. Its name comes from the Arabic word فنك (fanak), which means fox, and the species name zerda comes from the Greek word xeros which means dry, referring to the fox's habitat.",
     "name" : "Fennec Fox",
-    "product_image" : "../images/avatar-05.svg",
+    "product_image" : "/app/images/Foxy.jpg",
     "favorite": false,
     "price":1500.00
   },
@@ -75,7 +75,7 @@
     "uid": 10,
     "description" : "The kinkajou (Potos flavus) is a rainforest mammal of the family Procyonidae related to olingos, coatis, raccoons, and the ringtail and cacomistle. It is the only member of the genus Potos and is also known as the 'honey bear' (a name that it shares with the sun bear).",
     "name" : "Kinkajou",
-    "product_image" : "../images/avatar-05.svg",
+    "product_image" : "/app/images/kinkajou.jpg",
     "favorite": false,
     "price":2000.00
   },
@@ -83,7 +83,7 @@
     "uid": 11,
     "description" : "The serval (Leptailurus serval) is a medium-sized African wild cat. DNA studies have shown that the serval is closely related to the African golden cat and the caracal.",
     "name" : "Serval",
-    "product_image" : "../images/avatar-05.svg",
+    "product_image" : "/app/images/serval.jpg",
     "favorite": false,
     "price":2500.00
   },
@@ -91,7 +91,7 @@
     "uid": 12,
     "description" : "A wallaby is any animal belonging to the family Macropodidae that is smaller than a kangaroo and has not been designated otherwise.",
     "name" : "Wallaby",
-    "product_image" : "../images/avatar-05.svg",
+    "product_image" : "/app/images/wallaby.jpg",
     "favorite": false,
     "price":3000.00
   },
@@ -99,7 +99,7 @@
     "uid": 13,
     "description" : "The squirrel monkeys are the New World monkeys of the genus Saimiri. They are the only genus in the subfamily Saimirinae.",
     "name" : "Squirrel Monkey",
-    "product_image" : "../images/avatar-05.svg",
+    "product_image" : "/app/images/Smonkey.jpg",
     "favorite": false,
     "price":8000.00
   },
@@ -107,7 +107,7 @@
     "uid": 14,
     "description" : "The hyacinth macaw (Anodorhynchus hyacinthinus), or hyacinthine macaw, is a parrot native to central and eastern South America.",
     "name" : "Hyacinth Macaw",
-    "product_image" : "../images/avatar-05.svg",
+    "product_image" : "/app/images/hyacinth-macaws.jpg",
     "favorite": false,
     "price":12000.00
   },
@@ -115,7 +115,7 @@
     "uid": 15,
     "description" : "Chimpanzees, sometimes colloquially chimps, are two extant hominid species of apes in the genus Pan. ",
     "name" : "Chimpanzee",
-    "product_image" : "../images/avatar-05.svg",
+    "product_image" : "/app/images/Chimp.jpg",
     "favorite": false,
     "price":60000.00
   }
