@@ -11,9 +11,15 @@
     "uid": 2,
     "description" : "Tarantulas comprise a group of often hairy and very large arachnids belonging to the Theraphosidae family of spiders, of which approximately 900 species have been identified.",
     "name" : "Tarantula",
+<<<<<<< HEAD
     "product_image" : "/app/images/Tarantula.jpg",
     "favorite": false ,
     "price":15.00
+=======
+    "product_image" : "../images/avatar-02.svg",
+    "favorite": false,
+    "price":20.00
+>>>>>>> FETCH_HEAD
   },
     {
     "uid": 3,
