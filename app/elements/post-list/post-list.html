@@ -16,6 +16,14 @@
 
     <post-service id="service" posts="{{posts}}"></post-service>
 
+    <div>
+    ${{subtotal}}
+    </div>
+
+
+
+
+
     <div layout vertical center>
       <template repeat="{{post in posts}}">
         <post-card
@@ -31,11 +39,20 @@
     </div>
   </template>
 
+
   <script>
   Polymer({
+    subtotal: 0,
+    num_items: 0,
     handleFavorite: function(event, detail, sender) {
       var post = sender.templateInstance.model.post;
       this.$.service.setFavorite(post.uid, post.favorite);
+      if (post.favorite) {
+        this.subtotal = this.subtotal + post.price;
+      }
+      else {
+        this.subtotal = this.subtotal - post.price;
+      }
     }
   });
   </script>
