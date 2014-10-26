@@ -13,7 +13,7 @@
     "name" : "Tarantula",
     "product_image" : "../images/avatar-02.svg",
     "favorite": false,
-    "price":15.00
+    "price":20.00
   },
     {
     "uid": 3,
