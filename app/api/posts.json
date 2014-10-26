@@ -18,7 +18,7 @@
     {
     "uid": 3,
     "description" : "The emperor scorpion, Pandinus imperator, is a species of scorpion native to rainforests and savannas in West Africa.",
-    "name" : "Emperor Scorpions",
+    "name" : "Emperor Scorpion",
     "product_image" : "/app/images/Scorpion.jpg",
     "favorite": false,
     "price":20.00
